@@ -4,6 +4,6 @@
 **Mata Kuliah : Bahasa Pemrograman** <br>
 
 # Soal <br>
-![gambar](gambar/gambar1,png)
+![gambar](gambar/gambar1.png)
 
 
